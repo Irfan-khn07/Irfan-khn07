@@ -39,7 +39,7 @@ Currently learning and applying concepts in:
 ## 📫 Connect with Me
 
 - 💌 Email: [irfan_2312res303@iitp.ac.in]
-- 🔗 LinkedIn: [https://in.linkedin.com/in/irfan-khhn07](#)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/irfan-khhn07/](#)
 - 🌐 Portfolio Website : [come in soon](#)
 
 ---
