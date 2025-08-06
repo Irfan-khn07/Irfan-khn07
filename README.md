@@ -10,10 +10,10 @@
 I’m passionate about turning raw data into meaningful insights using analytical tools and techniques.  
 Currently learning and applying concepts in:
 
-- 📌 Exploratory Data Analysis (EDA)
-- 📌 Data Cleaning & Transformation
-- 📌 SQL & MySQL for Structured Databases
-- 📌 Power BI for Dashboards and Reporting
+ 📌 Exploratory Data Analysis (EDA)
+ 📌 Data Cleaning & Transformation
+ 📌 SQL & MySQL for Structured Databases
+ 📌 Power BI for Dashboards and Reporting
 
 ---
 
@@ -38,7 +38,7 @@ Currently learning and applying concepts in:
 
 ## 📫 Connect with Me
 
-- 💌 Email: [irfan_2312res303@iitp.ac.in]
+- 💌 Email: irfan_2312res303@iitp.ac.in
 - 🔗 LinkedIn: [https://www.linkedin.com/in/irfan-khhn07/](#)
 - 🌐 Portfolio Website : [come in soon](#)
 
