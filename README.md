@@ -10,10 +10,10 @@
 I’m passionate about turning raw data into meaningful insights using analytical tools and techniques.  
 Currently learning and applying concepts in:
 
- 📌 Exploratory Data Analysis (EDA)
- 📌 Data Cleaning & Transformation
- 📌 SQL & MySQL for Structured Databases
- 📌 Power BI for Dashboards and Reporting
+ - 📌 Exploratory Data Analysis (EDA)
+ - 📌 Data Cleaning & Transformation
+ - 📌 SQL & MySQL for Structured Databases
+ - 📌 Power BI for Dashboards and Reporting
 
 ---
 
